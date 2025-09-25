@@ -1,0 +1,7 @@
+drink_id,drink_name,drink_price,recipe_id
+c1,Americano,3.75,r1
+c2,Cafe Late,4.20,r2
+c3,Cappaucino,4.20,r3
+c4,Mocha,4.90,r4
+c5,Ice Americano,4.00,r5
+c6,Caramel Macchiato,5.10,r6

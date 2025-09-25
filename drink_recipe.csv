@@ -1,0 +1,15 @@
+recipe_details_id,drink_id ,ingredient,quantity,measure
+r1,c1,coffee beans,8,grams
+r2,c2,coffee beans,8,grams
+r3,c2,milk,250,ml
+r4,c3,coffee beans,8,grams
+r5,c3,milk,50,ml
+r6,c4,coffee beans,8,grams
+r7,c4,milk,250,ml
+r8,c4,chocolate powder,30,grams
+r9,c5,coffee beans,8,grams
+r10,c5,ice,50,grams
+r11,c6,coffee beans,8,grams
+r12,c6,milk,250,ml
+r13,c6,vanilla syrup,15,g
+r14,c6,caramel sauce,15,g
