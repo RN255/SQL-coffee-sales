@@ -6,6 +6,8 @@
 - Ingredients and their stock
 - Work out how much stock we have left after today
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../main/Screenshot%202025-09-25%20095439.jpg)
+
 ## Tables
 
 We first need to create some tables to store the data.
