@@ -1,5 +1,7 @@
 # Coffee shop sales and stock tracker
 
+This is a short project that uses SQL to keep track of coffee sales, which drinks sold well, how much stock of ingredients we have left and if stock levels have fallen below 75% or 50%.
+
 ## Task
 - Track sales of coffee
 - Record drinks recipe with ingredients
