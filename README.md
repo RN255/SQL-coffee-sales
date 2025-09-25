@@ -1,12 +1,12 @@
 # Coffee shop sales and stock tracker
 
-## TASK
+## Task
 - Track sales of coffee
 - Record drinks recipe with ingredients
 - Ingredients and their stock
 - Work out how much stock we have left after today
 
-## TABLES
+## Tables
 
 We first need to create some tables to store the data.
 They will be as follows:
